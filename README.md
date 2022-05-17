@@ -1,3 +1,3 @@
-# Projeto modelo de portifolio
+# Projeto modelo de portfolio
 
-### Modelo base para portifolio com animações CSS Puro.
+### Modelo base para portfolio com animações CSS Puro.
